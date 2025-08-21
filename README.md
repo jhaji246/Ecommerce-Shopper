@@ -141,8 +141,6 @@ graph TB
 
 ## 📱 Screenshots
 
-> *Screenshots will be added here once the app is running*
-
 ## 🔧 Configuration
 
 ### **Environment Setup**
